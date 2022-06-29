@@ -1,0 +1,10 @@
+{
+	"liveServer.settings.https": {
+		"enable": false,
+		"cert": "",
+		"key": "",
+		"passphrase": ""
+	},
+	"editor.insertSpaces": false,
+	"editor.tabSize": 2,
+}
